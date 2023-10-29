@@ -1,1 +1,3 @@
 # Dinify-Assignment
+
+## Business Understanding
