@@ -29,5 +29,7 @@ Dinify is an instant ordering plus order management platform for restaurants and
 </ul>
 Overall, Dinify.io is a powerful and versatile contactless dining and takeout solution that can help restaurants and businesses of all sizes improve their operations and customer experience.
 
+## Scope of Improvement according to me in the Manage Menu and Orders Page on business-demo.dinify.io
+
 
 
