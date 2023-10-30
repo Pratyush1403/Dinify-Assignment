@@ -38,7 +38,7 @@ Overall, Dinify.io is a powerful and versatile contactless dining and takeout so
 
 ### Restaurant Dashboard
 <ul>
-  <li></li>
+  <li>In Home Page, when we click on takeout order and input customer name and after that wen we select a dish, the customer name is not present. To overcome this, we can store the customer name in session storage and then import it from there.</li>
 </ul>
 
 
