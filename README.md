@@ -69,7 +69,10 @@ Overall, Dinify.io is a powerful and versatile contactless dining and takeout so
 </ul>
 
 
-
+## My Details:
+Pratyush Sharma
+pratyushsharma1404@gmail.com
++919067225141
 
 
 
