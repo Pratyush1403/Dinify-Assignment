@@ -40,9 +40,9 @@ Overall, Dinify.io is a powerful and versatile contactless dining and takeout so
 <ul>
   <li>In Home Page, when we click on takeout order and input customer name and after that wen we select a dish, the customer name is not present. To overcome this, we can store the customer name in session storage and then import it from there.</li>
   <li>When we select the date range the calender to see the orders by week, we are able to select the future dates. This can be resolved by using JQuery maxDate
-  /*$(function(){
+  
+    $(function(){
     var dtToday = new Date();
-
     var month = dtToday.getMonth() + 1;
     var day = dtToday.getDate();
     var year = dtToday.getFullYear();
@@ -54,7 +54,7 @@ Overall, Dinify.io is a powerful and versatile contactless dining and takeout so
 
     var maxDate = year + '-' + month + '-' + day;    
     $('#txtDate').attr('max', maxDate);
-});*/
+    });
   </li>
   <li>When completing an order, there should be a drop down button to select the mode of payment and also an input box to show the tip amount paid.</li>
   <li>When we place an order from a table, there should be an option to add customer details so that we get an updated list of customers.</li>
